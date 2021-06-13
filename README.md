@@ -1,4 +1,4 @@
-# Finished version via Nuxt.js
+# Finished version developed via Nuxt.js
 
 ## Build Setup
 
