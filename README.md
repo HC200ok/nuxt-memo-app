@@ -1,4 +1,4 @@
-# negocia-exam
+# Finished version via Nuxt.js
 
 ## Build Setup
 
