@@ -1,0 +1,20 @@
+{
+  "Categories": {
+    "description": "Auto imported from components/Categories.vue"
+  },
+  "Category": {
+    "description": "Auto imported from components/Category.vue"
+  },
+  "Login": {
+    "description": "Auto imported from components/Login.vue"
+  },
+  "Memo": {
+    "description": "Auto imported from components/Memo.vue"
+  },
+  "MemoEditor": {
+    "description": "Auto imported from components/MemoEditor.vue"
+  },
+  "Snackbar": {
+    "description": "Auto imported from components/Snackbar.vue"
+  }
+}

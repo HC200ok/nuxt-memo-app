@@ -1,0 +1,16 @@
+[
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "/Users/kanchou/Documents/www/nuxt-memo-app/pages/inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_00fd0656"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/kanchou/Documents/www/nuxt-memo-app/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_1394338d"
+  }
+]
